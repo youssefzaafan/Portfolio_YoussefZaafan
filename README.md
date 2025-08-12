@@ -1,15 +1,15 @@
-# 📄 Software Testing & QA Portfolio – Youssef Zaafan
+# 📄Portfolio – Youssef Zaafan
 
 ## 👤 About Me
 I am a passionate Software Testing Engineer with a strong foundation in manual and automated testing.  
-Skilled in SystemVerilog, UVM, and functional coverage for hardware verification, as well as using industry-standard tools like Selenium, Postman, and JMeter for software testing.  
+Skilled in JAVA, OOP, SystemVerilog, UVM, and functional coverage for hardware verification, as well as using industry-standard tools like Selenium, Postman, and JMeter for software testing.  
 I believe in delivering high-quality software by identifying issues early and ensuring robust, maintainable test processes.
 
 ---
 
 ## 📑 Curriculum Vitae
 [📥 Download My CV](./CV/Youssef_Zaafan_CV.pdf)  
-*(Replace with your actual CV file path or upload your PDF in the CV folder)*
+
 
 ---
 
@@ -43,6 +43,15 @@ I believe in delivering high-quality software by identifying issues early and en
 
 ## 📂 Projects
 
+### Manual Testing – Booking.com  
+Performed manual functional testing on hotel search and location accuracy.  
+Identified an issue with incorrect distance calculation between Tunis village hotels and Fayoum city center.  
+[📄 View Bug Report](./Bug_Reports/Bug_report_Booking.com.pdf)
+
+### Manual Testing – Sprints.com  
+Performed manual testing on quiz completion and learning flow.  
+Identified an issue where the quiz results were not displayed after submission, and the system marked it as complete while unlocking the next module.  
+[📄 View Bug Report](./Bug_Reports/Bug_report_Sprints.com.pdf)
 ### Verification of Sequential Adder  
 [🔗 View on GitHub](https://github.com/youssefzaafan/Verification-of-Sequential-Adder)  
 Developed full UVM testbench with functional coverage and self-checking scoreboard.
@@ -59,15 +68,6 @@ Created test scenarios for UART TX/RX, checked framing, parity, and timing.
 [🔗 View on GitHub](https://github.com/youssefzaafan/Verification-of-I2C-Memory)  
 Verified I2C transactions, ack/nack handling, and memory read/write sequences.
 
-### Manual Testing – Booking.com  
-Performed manual functional testing on hotel search and location accuracy.  
-Identified an issue with incorrect distance calculation between Tunis village hotels and Fayoum city center.  
-[📄 View Bug Report](./Bug_Reports/Bug_report_Booking.com.pdf)
-
-### Manual Testing – Sprints.com  
-Performed manual testing on quiz completion and learning flow.  
-Identified an issue where the quiz results were not displayed after submission, and the system marked it as complete while unlocking the next module.  
-[📄 View Bug Report](./Bug_Reports/Bug_report_Sprints.com.pdf)
 
 ---
 
