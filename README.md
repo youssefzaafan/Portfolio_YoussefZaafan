@@ -8,7 +8,7 @@ I believe in delivering high-quality software by identifying issues early and en
 ---
 
 ## 📑 Curriculum Vitae
-[📥My CV]([./CV/Youssef_Zaafan_CV.pdf](https://drive.google.com/file/d/1nW-ph4ToZQceomF9xZgzkVpboeidZjIS/view?usp=sharing))  
+[📥My CV]([CV/Youssef_Zaafan_SW Testing Engineer.pdf])  
 
 
 ---
